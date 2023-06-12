@@ -15,6 +15,6 @@ Django
 
 Contact
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at your-email@example.com or connect with me on LinkedIn.
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me via email at Aaban-cal@cal.com or connect with me on LinkedIn.
 
 Let's code like there's no tomorrow!
