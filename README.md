@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaban-cal
+- 👋 Hi, I’m @Aaban
 - Skills
 Here are some of the programming languages and technologies I excel in:
 
